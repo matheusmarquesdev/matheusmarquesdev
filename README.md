@@ -1,7 +1,7 @@
 ### Olá , me chamo Matheus Marques👋
 
 - 🔭 Não estou trabalhando atualmente
-- 🌱 Estudo JavaScrit e REACT atualmente
+- 🌱 Estudo Javascript e REACT atualmente
 - 🤔 Procuro ajuda para evoluir meu conhecimento em front-end
 
 <div>
