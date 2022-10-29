@@ -1,9 +1,8 @@
 ### Olá , me chamo Matheus Marques👋
 
-- 🔭 Não estou trabalhando atualmente
 - 🌱 Estudo Javascript,Typescript atualmente
 - 🤔 Procuro ajuda para evoluir meu conhecimento e aprimorar minhas habilidades
-- 😊 Em busca da primeira vaga como front-end
+- 😊 Desenvolvedor front-end jr na Clave Consultoria
 
 <div>
   <a href="https://www.linkedin.com/in/matheus-marques-b5bb17205/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin do Matheus Marques"></a>
